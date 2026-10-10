@@ -14,7 +14,7 @@ Dokumen ini memuat struktur proyek, penjelasan kode setiap kelas, cara menjalank
 | 🆔 **NIM** | F1D02510047|
 | 🏫 **Kelas** | 3A |
 | 📘 **Mata Kuliah** | Pemrograman Berorientasi Objek (PBO) |
-| 👨‍🏫 **Dosen Pengampu** | Rovana Afwani, S.T., M.T. |
+| 👨‍🏫 **Dosen Pengampu** | Royana Afwani, S.T., M.T. |
 
 ---
 
