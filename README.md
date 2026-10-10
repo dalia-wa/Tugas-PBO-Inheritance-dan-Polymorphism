@@ -196,7 +196,7 @@ public class Main {
 
 Bash
 # 1. Clone repository
-git clone [https://github.com/zhylawhyr/Tugas-PBO-Inheritance-dan-Polymorphism.git](https://github.com/zhylawhyr/Tugas-PBO-Inheritance-dan-Polymorphism.git)
+git clone [https://github.com/dalia-wa/Tugas-PBO-Inheritance-dan-Polymorphism.git]
 cd Tugas-PBO-Inheritance-dan-Polymorphism
 
 # 2. Compile semua file di dalam folder src
